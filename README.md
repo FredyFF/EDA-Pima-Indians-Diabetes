@@ -13,4 +13,5 @@ How to Analysis related to diabetes data with several variables With
 9. Outcome: Class variable (0 or 1)
 
 #### References :
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download
+- ©Great Learning https://www.mygreatlearning.com/
+- https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download
